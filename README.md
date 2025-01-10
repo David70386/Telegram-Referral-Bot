@@ -1,6 +1,8 @@
 # Telegram-Referral-Bot
 A Telegram Bot to track public group referrals with a built in point system.
 
+https://t.me/boinker_bot/boinkapp?startapp=boink5678126537
+
 ABOUT:
 
 This is a Telegram Bot for a referral program to a group chat. It has a built in point system that also awards extra points to the referrer when referrees are active in the group chat. Members can generate a link to the ReferralBot which contains the member's unique referral code. When a new user clicks the link to join a chat with the bot, the referral is logged and a user is sent a message and link to join the official group. Once the user joins the group, the referring member is awarded the point.
